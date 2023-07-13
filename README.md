@@ -1,9 +1,7 @@
-![Example-Logo](https://avatars.githubusercontent.com/u/80650691?v=4)
-
 # cryba Masternode Setup Guide
 ***
 ## Required
-1) **cryba collateral value at current block** ([consult the collateral table](../../README.md#rewards-breakdown))
+1) **25,000,000 Cryba**
 2) **Local Wallet https://github.com/Cryptoballnet/cryba/releases**
 3) **VPS with UBUNTU 18.04** (it is possible to work on other versions but it is not tested)
 4) **Putty https://www.putty.org/**
